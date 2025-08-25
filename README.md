@@ -1,6 +1,6 @@
 # **Grace-Parameter-Files: A Universal Approach to Aesthetic and Standardized Graphs**  
 
-**P. Loknath¹, S. Abhishek¹, and Unrevealed²**  
+**P. Loknath¹, S. Abhishek¹, and B.L Bhargava²**  
 ¹ *Equal Contribution* | ² *Corresponding Author*  
 
 ---
